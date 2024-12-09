@@ -1,0 +1,41 @@
+body { 
+  background-image: url("https://img.freepik.com/free-photo/top-view-sandwiches-with-cucumber-slices-copy-space_23-2148465127.jpg?semt=ais_hybrid"); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-position: center; 
+  min-height: 100vh; 
+  width: 100%; 
+} 
+
+.results {
+  display: flex;
+  justify-content: center;
+  font-size: 12px;
+  font-family: "Poppins", sans-serif;
+}
+ 
+.container { 
+  display: flex; 
+  justify-content: center; 
+} 
+ 
+.search { 
+  padding: 12px 24px; 
+  background-color: transparent; 
+  color: #575756; 
+  box-shadow: inset 0px 0px 0px 4px #ddd6e8; 
+  font-family: "Poppins", sans-serif;
+}
+ 
+h1, p {   
+  font-family: "Poppins", sans-serif;
+} 
+ 
+button { 
+  margin-top: 10px; 
+  border-radius: 12px; 
+  border: none; 
+  background-color: #dbecc4; 
+  padding: 10px;
+  font-family: "Poppins", sans-serif;
+} 
